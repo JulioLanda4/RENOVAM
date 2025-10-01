@@ -1,0 +1,1523 @@
+﻿---
+title: ""
+page-layout: article
+---
+
+
+
+```{=html}
+
+<section class="portfolio-hero">
+
+
+
+  <div class="portfolio-hero__inner">
+
+
+
+    <div class="portfolio-hero__copy">
+
+
+
+      <span class="portfolio-hero__eyebrow">Casos de éxito RENOVAM</span>
+
+
+
+      <h1 class="portfolio-hero__title">Portafolio de soluciones solares integrales</h1>
+
+
+
+      <p class="portfolio-hero__lead">Explora implementaciones reales con contexto de objetivos, retos técnicos y resultados obtenidos en campo. Cada carrusel resume los aprendizajes clave detrás de cada despliegue.</p>
+
+
+
+      <ul class="portfolio-hero__insights">
+
+        <li>Resolvemos sombreados, variaciones de demanda y normativas locales en cada sitio.</li>
+
+        <li>Integramos evidencia audiovisual del proceso de instalación y puesta en marcha.</li>
+
+        <li>Destacamos decisiones de ingeniería que optimizan producción y mantenimiento continuo.</li>
+
+      </ul>
+
+
+
+    </div>
+
+
+
+    <div class="portfolio-hero__media">
+
+
+
+      <div class="portfolio-hero__badge">Portafolio RENOVAM</div>
+
+
+
+      <ul class="portfolio-hero__highlights">
+
+        <li>Casos interconectados, híbridos, aislados, de electromovilidad y climatización documentados.</li>
+
+        <li>Galerías curadas por etapa: diagnóstico, montaje, operación y soporte.</li>
+
+        <li>Referencias listas para compartir con clientes, autoridades y aliados técnicos.</li>
+
+      </ul>
+
+
+
+    </div>
+
+
+
+  </div>
+
+
+
+</section>
+
+
+
+
+
+
+
+<section class="portfolio-categories" id="categorias">
+
+  <div class="portfolio-categories__intro">
+
+    <h2>Explora por tipo de proyecto</h2>
+
+    <p>Selecciona la solución que se ajusta a tu operación y navega por carruseles con imágenes, videos y detalles técnicos.</p>
+
+  </div>
+
+  <div class="portfolio-categories__grid">
+
+    <a class="portfolio-category-card" href="#interconectados">
+
+      <span class="portfolio-category-card__eyebrow">Conectados a red</span>
+
+      <h3 class="portfolio-category-card__title">Paneles solares interconectados</h3>
+
+      <p class="portfolio-category-card__text">Generación distribuida con monitoreo y medición neta.</p>
+
+    </a>
+
+    <a class="portfolio-category-card" href="#hibridos">
+
+      <span class="portfolio-category-card__eyebrow">Respaldo crítico</span>
+
+      <h3 class="portfolio-category-card__title">Paneles solares híbridos</h3>
+
+      <p class="portfolio-category-card__text">Integración con bancos de baterías e inversores bidireccionales.</p>
+
+    </a>
+
+    <a class="portfolio-category-card" href="#aislados">
+
+      <span class="portfolio-category-card__eyebrow">Autonomía total</span>
+
+      <h3 class="portfolio-category-card__title">Paneles solares aislados</h3>
+
+      <p class="portfolio-category-card__text">Suministro continuo en sitios fuera de la red.</p>
+
+    </a>
+
+    <a class="portfolio-category-card" href="#cargadores">
+
+      <span class="portfolio-category-card__eyebrow">Movilidad eléctrica</span>
+
+      <h3 class="portfolio-category-card__title">Cargadores de auto eléctrico</h3>
+
+      <p class="portfolio-category-card__text">Carga inteligente para flotas y espacios públicos.</p>
+
+    </a>
+
+    <a class="portfolio-category-card" href="#albercas">
+
+      <span class="portfolio-category-card__eyebrow">Confort sustentable</span>
+
+      <h3 class="portfolio-category-card__title">Climatización solar de albercas</h3>
+
+      <p class="portfolio-category-card__text">Control térmico eficiente para amenidades recreativas.</p>
+
+    </a>
+
+  </div>
+
+</section>
+
+```
+
+
+
+
+
+```{=html}
+
+<section class="portfolio-section" id="interconectados">
+
+  <header class="portfolio-section__header">
+
+    <span class="portfolio-section__eyebrow">Conectados a la red CFE</span>
+
+    <h2 class="portfolio-section__title">Paneles solares interconectados</h2>
+
+    <p class="portfolio-section__lead">Sistemas conectados a la red de CFE con monitoreo en tiempo real para fraccionamientos, comercios e industrias.</p>
+
+  </header>
+
+  <div class="portfolio-section__content">
+
+    <div class="portfolio-showcase">
+
+      <div id="carousel-interconectados" class="carousel slide" data-bs-ride="false">
+
+        <div class="carousel-indicators">
+
+          <button type="button" data-bs-target="#carousel-interconectados" data-bs-slide-to="0" class="active" aria-label="Diapositiva 1"></button>
+
+          <button type="button" data-bs-target="#carousel-interconectados" data-bs-slide-to="1" aria-label="Diapositiva 2"></button>
+
+          <button type="button" data-bs-target="#carousel-interconectados" data-bs-slide-to="2" aria-label="Diapositiva 3"></button>
+
+          <button type="button" data-bs-target="#carousel-interconectados" data-bs-slide-to="3" aria-label="Diapositiva 4"></button>
+
+          <button type="button" data-bs-target="#carousel-interconectados" data-bs-slide-to="4" aria-label="Diapositiva 5"></button>
+
+          <button type="button" data-bs-target="#carousel-interconectados" data-bs-slide-to="5" aria-label="Diapositiva 6"></button>
+
+          <button type="button" data-bs-target="#carousel-interconectados" data-bs-slide-to="6" aria-label="Diapositiva 7"></button>
+
+          <button type="button" data-bs-target="#carousel-interconectados" data-bs-slide-to="7" aria-label="Diapositiva 8"></button>
+
+          <button type="button" data-bs-target="#carousel-interconectados" data-bs-slide-to="8" aria-label="Diapositiva 9"></button>
+
+          <button type="button" data-bs-target="#carousel-interconectados" data-bs-slide-to="9" aria-label="Diapositiva 10"></button>
+
+          <button type="button" data-bs-target="#carousel-interconectados" data-bs-slide-to="10" aria-label="Diapositiva 11"></button>
+
+          <button type="button" data-bs-target="#carousel-interconectados" data-bs-slide-to="11" aria-label="Diapositiva 12"></button>
+
+          <button type="button" data-bs-target="#carousel-interconectados" data-bs-slide-to="12" aria-label="Diapositiva 13"></button>
+
+          <button type="button" data-bs-target="#carousel-interconectados" data-bs-slide-to="13" aria-label="Diapositiva 14"></button>
+
+        </div>
+
+        <div class="carousel-inner">
+
+          <div class="carousel-item active">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <video class="portfolio-media" controls preload="metadata">
+
+                    <source src="../Recursos/Paneles%20solares%20interconectados/2024-07-24-12-36-08-714%E2%80%AFp.m..mp4" type="video/mp4">
+
+                    Tu navegador no soporta la reproducción del video.
+
+                  </video>
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <video class="portfolio-media" controls preload="metadata">
+
+                    <source src="../Recursos/Paneles%20solares%20interconectados/2024-12-17-2-43-36-138%E2%80%AFp.m..mp4" type="video/mp4">
+
+                    Tu navegador no soporta la reproducción del video.
+
+                  </video>
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <video class="portfolio-media" controls preload="metadata">
+
+                    <source src="../Recursos/Paneles%20solares%20interconectados/2024-12-17-2-44-35-842%E2%80%AFp.m..mp4" type="video/mp4">
+
+                    Tu navegador no soporta la reproducción del video.
+
+                  </video>
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <video class="portfolio-media" controls preload="metadata">
+
+                    <source src="../Recursos/Paneles%20solares%20interconectados/2025-01-13-4-35-00-027%E2%80%AFp.m..mp4" type="video/mp4">
+
+                    Tu navegador no soporta la reproducción del video.
+
+                  </video>
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <video class="portfolio-media" controls preload="metadata">
+
+                    <source src="../Recursos/Paneles%20solares%20interconectados/2025-01-13-4-37-46-747%E2%80%AFp.m..mp4" type="video/mp4">
+
+                    Tu navegador no soporta la reproducción del video.
+
+                  </video>
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <video class="portfolio-media" controls preload="metadata">
+
+                    <source src="../Recursos/Paneles%20solares%20interconectados/2025-02-13-12-15-42-355%E2%80%AFp.m..mp4" type="video/mp4">
+
+                    Tu navegador no soporta la reproducción del video.
+
+                  </video>
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/2025-02-28-11-42-20-955%E2%80%AFa.m..jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/2025-02-28-11-43-03-290%E2%80%AFa.m..jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/2025-02-28-11-45-55-531%E2%80%AFa.m..jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/9c88028e-dc32-4ad9-a59f-df99f9192e4b.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/central-abastos.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <video class="portfolio-media" controls preload="metadata">
+
+                    <source src="../Recursos/Paneles%20solares%20interconectados/DraftResource_1743350725.050726.mp4" type="video/mp4">
+
+                    Tu navegador no soporta la reproducción del video.
+
+                  </video>
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_4238.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_5042.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_5042.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <video class="portfolio-media" controls preload="metadata">
+
+                    <source src="../Recursos/Paneles%20solares%20interconectados/IMG_5046.mp4" type="video/mp4">
+
+                    Tu navegador no soporta la reproducción del video.
+
+                  </video>
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_5844.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_5846.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_5846.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <video class="portfolio-media" controls preload="metadata">
+
+                    <source src="../Recursos/Paneles%20solares%20interconectados/IMG_5877.mp4" type="video/mp4">
+
+                    Tu navegador no soporta la reproducción del video.
+
+                  </video>
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_6398.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_6399.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_7132.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_7220.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_7470.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_7709.JPG" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_7736.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_7752.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_7753.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_8369.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_8369.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <video class="portfolio-media" controls preload="metadata">
+
+                    <source src="../Recursos/Paneles%20solares%20interconectados/IMG_8370.mp4" type="video/mp4">
+
+                    Tu navegador no soporta la reproducción del video.
+
+                  </video>
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_8382.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_8410.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_8412.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_8429.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_8455.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_8464.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/IMG_8465.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20interconectados/central-abastos.jpg" alt="Paneles solares interconectados" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <button class="carousel-control-prev" type="button" data-bs-target="#carousel-interconectados" data-bs-slide="prev">
+
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+
+          <span class="visually-hidden">Anterior</span>
+
+        </button>
+
+        <button class="carousel-control-next" type="button" data-bs-target="#carousel-interconectados" data-bs-slide="next">
+
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+
+          <span class="visually-hidden">Siguiente</span>
+
+        </button>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+```
+
+
+
+
+
+```{=html}
+
+<section class="portfolio-section" id="hibridos">
+
+  <header class="portfolio-section__header">
+
+    <span class="portfolio-section__eyebrow">Respaldo continuo</span>
+
+    <h2 class="portfolio-section__title">Paneles solares híbridos</h2>
+
+    <p class="portfolio-section__lead">Soluciones con respaldo inteligente mediante baterías para asegurar continuidad en operaciones críticas.</p>
+
+  </header>
+
+  <div class="portfolio-section__content">
+
+    <div class="portfolio-showcase">
+
+      <div id="carousel-hibridos" class="carousel slide" data-bs-ride="false">
+
+        <div class="carousel-indicators">
+
+          <button type="button" data-bs-target="#carousel-hibridos" data-bs-slide-to="0" class="active" aria-label="Diapositiva 1"></button>
+
+          <button type="button" data-bs-target="#carousel-hibridos" data-bs-slide-to="1" aria-label="Diapositiva 2"></button>
+
+          <button type="button" data-bs-target="#carousel-hibridos" data-bs-slide-to="2" aria-label="Diapositiva 3"></button>
+
+        </div>
+
+        <div class="carousel-inner">
+
+          <div class="carousel-item active">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20h%C3%ADbridos/IMG_4926.jpg" alt="Paneles solares híbridos" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20h%C3%ADbridos/IMG_4941.jpg" alt="Paneles solares híbridos" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20h%C3%ADbridos/IMG_4945.jpg" alt="Paneles solares híbridos" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <video class="portfolio-media" controls preload="metadata">
+
+                    <source src="../Recursos/Paneles%20solares%20h%C3%ADbridos/IMG_4948.mp4" type="video/mp4">
+
+                    Tu navegador no soporta la reproducción del video.
+
+                  </video>
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20h%C3%ADbridos/IMG_7932.jpg" alt="Paneles solares híbridos" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20h%C3%ADbridos/IMG_7942.jpg" alt="Paneles solares híbridos" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20h%C3%ADbridos/IMG_7943.jpg" alt="Paneles solares híbridos" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <button class="carousel-control-prev" type="button" data-bs-target="#carousel-hibridos" data-bs-slide="prev">
+
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+
+          <span class="visually-hidden">Anterior</span>
+
+        </button>
+
+        <button class="carousel-control-next" type="button" data-bs-target="#carousel-hibridos" data-bs-slide="next">
+
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+
+          <span class="visually-hidden">Siguiente</span>
+
+        </button>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+```
+
+
+
+
+
+```{=html}
+
+<section class="portfolio-section" id="aislados">
+
+  <header class="portfolio-section__header">
+
+    <span class="portfolio-section__eyebrow">Autonomía energética</span>
+
+    <h2 class="portfolio-section__title">Paneles solares aislados</h2>
+
+    <p class="portfolio-section__lead">Microredes y sistemas autónomos diseñados para ubicaciones sin acceso confiable a la red eléctrica.</p>
+
+  </header>
+
+  <div class="portfolio-section__content">
+
+    <div class="portfolio-showcase">
+
+      <div id="carousel-aislados" class="carousel slide" data-bs-ride="false">
+
+        <div class="carousel-indicators">
+
+          <button type="button" data-bs-target="#carousel-aislados" data-bs-slide-to="0" class="active" aria-label="Diapositiva 1"></button>
+
+          <button type="button" data-bs-target="#carousel-aislados" data-bs-slide-to="1" aria-label="Diapositiva 2"></button>
+
+        </div>
+
+        <div class="carousel-inner">
+
+          <div class="carousel-item active">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20aislados/IMG_6968.jpg" alt="Paneles solares aislados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <video class="portfolio-media" controls preload="metadata">
+
+                    <source src="../Recursos/Paneles%20solares%20aislados/IMG_6993.mp4" type="video/mp4">
+
+                    Tu navegador no soporta la reproducción del video.
+
+                  </video>
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20aislados/IMG_7005.jpg" alt="Paneles solares aislados" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20aislados/IMG_7980.jpg" alt="Paneles solares aislados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20aislados/IMG_7981.jpg" alt="Paneles solares aislados" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Paneles%20solares%20aislados/IMG_7983.jpg" alt="Paneles solares aislados" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <button class="carousel-control-prev" type="button" data-bs-target="#carousel-aislados" data-bs-slide="prev">
+
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+
+          <span class="visually-hidden">Anterior</span>
+
+        </button>
+
+        <button class="carousel-control-next" type="button" data-bs-target="#carousel-aislados" data-bs-slide="next">
+
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+
+          <span class="visually-hidden">Siguiente</span>
+
+        </button>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+```
+
+
+
+
+
+```{=html}
+
+<section class="portfolio-section" id="cargadores">
+
+  <header class="portfolio-section__header">
+
+    <span class="portfolio-section__eyebrow">Electromovilidad inteligente</span>
+
+    <h2 class="portfolio-section__title">Cargadores de auto eléctrico</h2>
+
+    <p class="portfolio-section__lead">Infraestructura segura y escalable para flotillas, espacios públicos y usuarios residenciales.</p>
+
+  </header>
+
+  <div class="portfolio-section__content">
+
+    <div class="portfolio-showcase">
+
+      <div id="carousel-cargadores" class="carousel slide" data-bs-ride="false">
+
+        <div class="carousel-indicators">
+
+          <button type="button" data-bs-target="#carousel-cargadores" data-bs-slide-to="0" class="active" aria-label="Diapositiva 1"></button>
+
+          <button type="button" data-bs-target="#carousel-cargadores" data-bs-slide-to="1" aria-label="Diapositiva 2"></button>
+
+        </div>
+
+        <div class="carousel-inner">
+
+          <div class="carousel-item active">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Cargadores%20de%20auto/IMG_6901.jpg" alt="Cargadores de auto eléctrico" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Cargadores%20de%20auto/IMG_7230.jpg" alt="Cargadores de auto eléctrico" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Cargadores%20de%20auto/IMG_7415.jpg" alt="Cargadores de auto eléctrico" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Cargadores%20de%20auto/IMG_7423.jpg" alt="Cargadores de auto eléctrico" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Cargadores%20de%20auto/IMG_7424.jpg" alt="Cargadores de auto eléctrico" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <button class="carousel-control-prev" type="button" data-bs-target="#carousel-cargadores" data-bs-slide="prev">
+
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+
+          <span class="visually-hidden">Anterior</span>
+
+        </button>
+
+        <button class="carousel-control-next" type="button" data-bs-target="#carousel-cargadores" data-bs-slide="next">
+
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+
+          <span class="visually-hidden">Siguiente</span>
+
+        </button>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+```
+
+
+
+
+
+```{=html}
+
+<section class="portfolio-section" id="albercas">
+
+  <header class="portfolio-section__header">
+
+    <span class="portfolio-section__eyebrow">Confort sustentable</span>
+
+    <h2 class="portfolio-section__title">Climatización solar de albercas</h2>
+
+    <p class="portfolio-section__lead">Calentamiento solar con control inteligente para mantener temperaturas confortables en hoteles, clubes y residencias.</p>
+
+  </header>
+
+  <div class="portfolio-section__content">
+
+    <div class="portfolio-showcase">
+
+      <div id="carousel-albercas" class="carousel slide" data-bs-ride="false">
+
+        <div class="carousel-indicators">
+
+          <button type="button" data-bs-target="#carousel-albercas" data-bs-slide-to="0" class="active" aria-label="Diapositiva 1"></button>
+
+          <button type="button" data-bs-target="#carousel-albercas" data-bs-slide-to="1" aria-label="Diapositiva 2"></button>
+
+          <button type="button" data-bs-target="#carousel-albercas" data-bs-slide-to="2" aria-label="Diapositiva 3"></button>
+
+          <button type="button" data-bs-target="#carousel-albercas" data-bs-slide-to="3" aria-label="Diapositiva 4"></button>
+
+        </div>
+
+        <div class="carousel-inner">
+
+          <div class="carousel-item active">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Calentamiento%20del%20Albercas/C67D2822-EDAD-45A8-8E02-11933E40F7B9.jpg" alt="Climatización solar de albercas" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Calentamiento%20del%20Albercas/IMG_3105.jpg" alt="Climatización solar de albercas" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <video class="portfolio-media" controls preload="metadata">
+
+                    <source src="../Recursos/Calentamiento%20del%20Albercas/IMG_3106.mp4" type="video/mp4">
+
+                    Tu navegador no soporta la reproducción del video.
+
+                  </video>
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <video class="portfolio-media" controls preload="metadata">
+
+                    <source src="../Recursos/Calentamiento%20del%20Albercas/IMG_4649.mp4" type="video/mp4">
+
+                    Tu navegador no soporta la reproducción del video.
+
+                  </video>
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Calentamiento%20del%20Albercas/IMG_4650.jpg" alt="Climatización solar de albercas" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <video class="portfolio-media" controls preload="metadata">
+
+                    <source src="../Recursos/Calentamiento%20del%20Albercas/IMG_4658.mp4" type="video/mp4">
+
+                    Tu navegador no soporta la reproducción del video.
+
+                  </video>
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <video class="portfolio-media" controls preload="metadata">
+
+                    <source src="../Recursos/Calentamiento%20del%20Albercas/IMG_5885.mp4" type="video/mp4">
+
+                    Tu navegador no soporta la reproducción del video.
+
+                  </video>
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Calentamiento%20del%20Albercas/IMG_6298.jpg" alt="Climatización solar de albercas" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Calentamiento%20del%20Albercas/IMG_6301.jpg" alt="Climatización solar de albercas" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="portfolio-slide-row">
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Calentamiento%20del%20Albercas/IMG_8467.jpg" alt="Climatización solar de albercas" loading="lazy">
+
+                </div>
+
+              </div>
+
+              <div class="portfolio-item-card">
+
+                <div class="portfolio-media-wrapper">
+
+                  <img class="portfolio-media" src="../Recursos/Calentamiento%20del%20Albercas/IMG_8469.jpg" alt="Climatización solar de albercas" loading="lazy">
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <button class="carousel-control-prev" type="button" data-bs-target="#carousel-albercas" data-bs-slide="prev">
+
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+
+          <span class="visually-hidden">Anterior</span>
+
+        </button>
+
+        <button class="carousel-control-next" type="button" data-bs-target="#carousel-albercas" data-bs-slide="next">
+
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+
+          <span class="visually-hidden">Siguiente</span>
+
+        </button>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+```
+
+
+
+```{=html}
+
+<section class="about-cta portfolio-cta">
+
+
+
+  <div class="about-cta__inner">
+
+
+
+    <div class="about-cta__copy">
+
+
+
+      <h2>¿Quieres recorrer un caso similar al tuyo?</h2>
+
+
+
+      <p>Solicita una selección personalizada con métricas, planos y aprendizajes que respondan a tu proyecto.</p>
+
+
+
+    </div>
+
+
+
+    <a class="btn btn-lg" href="../contacto.qmd#agenda">Solicitar portafolio personalizado</a>
+
+
+
+  </div>
+
+
+
+</section>
+
+
+
+
+
+```
+

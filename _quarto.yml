@@ -1,0 +1,50 @@
+﻿project:
+  type: website
+  resources:
+    - Recursos/**
+lang: es
+website:
+  title: "RENOVAM | Energías Renovables de México"
+  description: "Portafolio de soluciones solares interconectadas, híbridas y aisladas, electromovilidad y climatización de albercas."
+  favicon: logo.png
+  search: true
+  navbar:
+    logo: logo.png
+    left:
+      - href: index.qmd
+        text: ¿Quiénes somos?
+      - href: servicios.qmd
+        text: Servicios
+      - text: Portafolio
+        href: proyectos/index.qmd
+        menu:
+          - text: Interconectados
+            href: proyectos/index.qmd#interconectados
+          - text: Híbridos
+            href: proyectos/index.qmd#hibridos
+          - text: Aislados
+            href: proyectos/index.qmd#aislados
+          - text: Cargadores EV
+            href: proyectos/index.qmd#cargadores
+          - text: Climatización de albercas
+            href: proyectos/index.qmd#albercas
+      - href: contacto.qmd
+        text: Contacto
+    right:
+      - icon: envelope
+        text: "Agenda una asesoría"
+        href: contacto.qmd#agenda
+        target: _self
+  page-footer:
+    left: "© 2025 RENOVAM - Energías Renovables de México"
+    right: "<a href=\"mailto:renovammex@gmail.com\">renovammex@gmail.com</a> • <a href=\"tel:+527778297622\">777 829 7622</a>"
+format:
+  html:
+    theme:
+      light: litera
+    toc: false
+    smooth-scroll: true
+    code-copy: false
+    sanitize: false
+    raw-html: true
+    css: styles/custom.css

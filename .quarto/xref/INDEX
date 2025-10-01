@@ -1,0 +1,17 @@
+{
+  "about.qmd": {
+    "about.html": "ba96ac02"
+  },
+  "contacto.qmd": {
+    "contacto.html": "ce50fefd"
+  },
+  "index.qmd": {
+    "index.html": "2562864f"
+  },
+  "proyectos/index.qmd": {
+    "index.html": "273d4340"
+  },
+  "servicios.qmd": {
+    "servicios.html": "46531043"
+  }
+}

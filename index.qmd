@@ -1,0 +1,129 @@
+---
+title: ""
+page-layout: full
+---
+
+```{=html}
+<section class="about-hero">
+  <div class="about-hero__inner">
+    <div class="about-hero__copy">
+      <span class="about-hero__eyebrow">Quiénes somos</span>
+      <h1 class="about-hero__title">Ingeniería solar con sello RENOVAM</h1>
+      <p class="about-hero__lead">En RENOVAM transformamos la manera en que hogares, comercios e industrias producen y consumen energía. Diseñamos soluciones limpias, eficientes y personalizadas que impulsan la transición energética de México.</p>
+      <p class="about-hero__mission">Somos una empresa 100&nbsp;% mexicana con enfoque integral: combinamos análisis energético, ingeniería certificada y gestión documental para entregar resultados reales y medibles.</p>
+    </div>
+    <div class="about-hero__media">
+      <h2>Diferenciales clave</h2>
+      <ul class="about-hero__points">
+        <li>Metodología propia que une diagnóstico, ingeniería, instalación y operación.</li>
+        <li>Equipo acreditado EC1181 con experiencia en proyectos de media y alta tensión.</li>
+        <li>Monitoreo, mantenimiento y soporte técnico continuo para asegurar desempeño.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+```
+
+```{=html}
+<section class="about-values">
+  <h2 class="about-section-title">¿Por qué elegir RENOVAM?</h2>
+  <div class="about-values__grid">
+    <article class="about-values__card">
+      <h3>Ingeniería especializada</h3>
+      <p>Soluciones integrales con certificaciones y memorias de cálculo detalladas para cada sistema fotovoltaico.</p>
+    </article>
+    <article class="about-values__card">
+      <h3>Gestión completa</h3>
+      <p>Nos encargamos del estudio de factibilidad, permisos y trámites ante CFE hasta la interconexión final.</p>
+    </article>
+    <article class="about-values__card">
+      <h3>Acompañamiento cercano</h3>
+      <p>Diseños personalizados, asesoría financiera y seguimiento directo con cada cliente.</p>
+    </article>
+    <article class="about-values__card">
+      <h3>Garantías extendidas</h3>
+      <p>10 años en instalación por parte de RENOVAM y cobertura ampliada según la tecnología instalada.</p>
+    </article>
+    <article class="about-values__card">
+      <h3>Monitoreo constante</h3>
+      <p>Supervisión 24/7 por especialistas y programas de mantenimiento incluidos durante los primeros cinco años.</p>
+    </article>
+  </div>
+</section>
+```
+
+```{=html}
+<section class="about-expertise">
+  <h2 class="about-section-title">Experiencia comprobada</h2>
+  <div class="about-expertise__grid">
+    <article class="about-expertise__card">
+      <span class="about-expertise__label">Industrial</span>
+      <h3>480 paneles en Atoyac · 340 paneles en CDMX</h3>
+      <p>Proyectos para recibos de media tensión de $30,000 a $7,000,000 MXN mensuales con redundancia operativa.</p>
+    </article>
+    <article class="about-expertise__card">
+      <span class="about-expertise__label">Comercial</span>
+      <h3>6 fraccionamientos · 27 negocios</h3>
+      <p>Integraciones en retail, oficinas y manufactura que alcanzan hasta 99&nbsp;% de ahorro en facturación CFE.</p>
+    </article>
+    <article class="about-expertise__card">
+      <span class="about-expertise__label">Residencial</span>
+      <h3>146 instalaciones inteligentes</h3>
+      <p>Sistemas de 4 a 24 paneles con monitoreo en tiempo real, soluciones híbridas y soporte personalizado.</p>
+    </article>
+  </div>
+</section>
+```
+
+```{=html}
+<section class="about-projects">
+  <div class="about-projects__header">
+    <h2 class="about-section-title">Proyectos que generan confianza</h2>
+    <p>Participamos en iniciativas estratégicas de gran escala a través de alianzas que aportan nuestra ingeniería, instalación y gestión.</p>
+  </div>
+```
+:::{.case-gallery layout-ncol="3"}
+::: {.case-card}
+![](Recursos/Paneles%20solares%20interconectados/central-abastos.jpg){.case-card__image}
+**Central de Abastos CDMX** · 60 MW
+
+Estudio de prefactibilidad e ingeniería financiera para la planta fotovoltaica más grande de la zona metropolitana.
+:::
+
+::: {.case-card}
+![](Recursos/Paneles%20solares%20híbridos/IMG_4926.jpg){.case-card__image}
+**Facultad de Ingeniería UNAM** · 50 kW
+
+Diseño y dimensionamiento eléctrico-estructural del estacionamiento solar instalado en Ciudad Universitaria.
+:::
+
+::: {.case-card}
+![](Recursos/Paneles%20solares%20aislados/IMG_6968.jpg){.case-card__image}
+**Planta de Tratamiento CONAGUA** · 150 kW
+
+Documentación ejecutiva, memorias de cálculo e ingeniería para sitio aislado aprobado en Morelos.
+:::
+:::
+```{=html}
+</section>
+```
+
+```{=html}
+<section class="about-team">
+  <div class="about-team__header">
+    <h2 class="about-section-title">Nuestro equipo</h2>
+    <p>RENOVAM está liderado por especialistas en energías renovables egresados del Instituto de Energías Renovables de la UNAM.</p>
+  </div>
+  <div class="about-team__grid">
+    <article class="about-team__card">
+      <h3>Ing. Oscar Zagal Olvera</h3>
+      <p>Responsable de proyectos fotovoltaicos, microredes, sistemas aislados y respaldo de emergencia.</p>
+    </article>
+    <article class="about-team__card">
+      <h3>Ing. Cristóbal Valdos Mayo</h3>
+      <p>Especialista en climatización solar, biocombustibles y electromovilidad con enfoque en integración tecnológica.</p>
+    </article>
+  </div>
+  <p class="about-team__note">Ambos cuentan con certificación EC1181 para supervisar sistemas fotovoltaicos residenciales, comerciales e industriales.</p>
+</section>
+```

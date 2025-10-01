@@ -1,0 +1,81 @@
+---
+title: ""
+page-layout: article
+---
+
+```{=html}
+<section class="contact-hero">
+  <div class="contact-hero__inner">
+    <div class="contact-hero__panel contact-hero__panel--info">
+      <span class="contact-hero__eyebrow">Estamos listos para ayudarte</span>
+      <h1 class="contact-hero__title">Contacto</h1>
+      <p class="contact-hero__lead">Nuestros especialistas en ingeniería fotovoltaica se pondrán en contacto contigo para resolver dudas, evaluar tu proyecto y coordinar la documentación necesaria.</p>
+      <ul class="contact-hero__details">
+        <li>
+          <span class="contact-hero__detail-label">Teléfono</span>
+          <a href="tel:+527778297622">777 829 7622</a>
+        </li>
+        <li>
+          <span class="contact-hero__detail-label">Horario de atención</span>
+          <span>Lunes a viernes &middot; 9:00–18:00 hrs</span>
+        </li>
+        <li>
+          <span class="contact-hero__detail-label">Correo</span>
+          <a href="mailto:renovammex@gmail.com">renovammex@gmail.com</a>
+        </li>
+        <li>
+          <span class="contact-hero__detail-label">Dirección</span>
+          <span>Manuel M. Flores #25, Ciudad de México, CDMX</span>
+        </li>
+        <li>
+          <span class="contact-hero__detail-label">Redes</span>
+          <span>
+            <a href="https://www.facebook.com/RENOVAMMX" target="_blank" rel="noopener">Facebook</a>
+            &middot;
+            <a href="https://www.instagram.com/renovammex" target="_blank" rel="noopener">Instagram</a>
+          </span>
+        </li>
+      </ul>
+    </div>
+    <div class="contact-hero__panel contact-hero__panel--form">
+      <h2 class="contact-hero__form-title">Agenda una asesoría</h2>
+      <p class="contact-hero__form-lead">Comparte los detalles clave del sitio y tu consumo. Diseñaremos una propuesta a la medida en menos de 24 horas hábiles.</p>
+      <form class="contact-form" action="mailto:renovammex@gmail.com" method="post" enctype="text/plain">
+        <div class="form-row">
+          <label for="nombre">Nombre completo</label>
+          <input type="text" id="nombre" name="Nombre" required>
+        </div>
+        <div class="form-row">
+          <label for="correo">Correo electrónico</label>
+          <input type="email" id="correo" name="Correo" required>
+        </div>
+        <div class="form-row">
+          <label for="telefono">Teléfono / WhatsApp</label>
+          <input type="tel" id="telefono" name="Teléfono">
+        </div>
+        <div class="form-row">
+          <label for="ubicacion">Ubicación del proyecto</label>
+          <input type="text" id="ubicacion" name="Ubicación" placeholder="Ciudad, estado">
+        </div>
+        <div class="form-row">
+          <label for="servicio">Servicio de interés</label>
+          <select id="servicio" name="Servicio">
+            <option value="Interconectado">Paneles solares interconectados</option>
+            <option value="Híbrido">Paneles solares híbridos</option>
+            <option value="Aislado">Paneles solares aislados</option>
+            <option value="Cargador">Cargadores de auto eléctrico</option>
+            <option value="Alberca">Climatización solar de albercas</option>
+            <option value="Otro">Otro / Asesoría integral</option>
+          </select>
+        </div>
+        <div class="form-row">
+          <label for="mensaje">Resumen del consumo o necesidad</label>
+          <textarea id="mensaje" name="Mensaje" rows="4" placeholder="Comparte tu recibo promedio, horarios de operación y cualquier información relevante."></textarea>
+        </div>
+        <div class="form-footnote">Al enviar aceptas que nos pongamos en contacto para atender tu solicitud.</div>
+        <button type="submit" class="btn btn-primary contact-form__submit">Enviar solicitud</button>
+      </form>
+    </div>
+  </div>
+</section>
+```

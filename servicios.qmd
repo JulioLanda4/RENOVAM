@@ -1,0 +1,206 @@
+---
+title: ""
+page-layout: article
+---
+
+```{=html}
+<section class="service-hero">
+  <div class="service-hero__inner">
+    <div class="service-hero__copy">
+      <span class="service-hero__eyebrow">Ingeniería fotovoltaica llave en mano</span>
+      <h1 class="service-hero__title">Servicios integrales para tu transición energética</h1>
+      <p class="service-hero__lead">Diagnóstico, diseño, instalación y soporte continuo. RENOVAM convierte proyectos solares residenciales, comerciales e industriales en resultados medibles, desde el primer panel hasta la puesta en marcha.</p>
+      <div class="service-hero__stats">
+        <div class="service-hero__stat">
+          <span class="service-hero__stat-value">180+</span>
+          <span class="service-hero__stat-label">Instalaciones concluidas</span>
+        </div>
+        <div class="service-hero__stat">
+          <span class="service-hero__stat-value">20 MW</span>
+          <span class="service-hero__stat-label">Capacidad gestionada</span>
+        </div>
+        <div class="service-hero__stat">
+          <span class="service-hero__stat-value">24/7</span>
+          <span class="service-hero__stat-label">Monitoreo y soporte</span>
+        </div>
+      </div>
+      <div class="service-hero__cta">
+        <a class="btn btn-primary btn-lg" href="contacto.qmd#agenda">Agenda una asesoría</a>
+        <span class="service-hero__cta-note">Respuesta personalizada en menos de 24 h</span>
+      </div>
+    </div>
+    <div class="service-hero__media">
+      <div class="service-hero__badge">Modelo RENOVAM</div>
+      <ul class="service-hero__timeline">
+        <li>
+          <strong>Diagnóstico</strong>
+          <span>Visita técnica, estudio de consumo y simulaciones</span>
+        </li>
+        <li>
+          <strong>Ingeniería</strong>
+          <span>Diseño eléctrico, estructural y memoria de cálculo</span>
+        </li>
+        <li>
+          <strong>Gestión</strong>
+          <span>Trámites ante CFE, permisos y financiamiento verde</span>
+        </li>
+        <li>
+          <strong>Instalación</strong>
+          <span>Montaje certificado, pruebas y puesta en marcha</span>
+        </li>
+        <li>
+          <strong>Operación</strong>
+          <span>Monitoreo, mantenimiento y soporte continuo</span>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+```
+
+```{=html}
+<section class="service-pillars">
+  <h2 class="service-section-title">Cómo trabajamos</h2>
+  <div class="service-pillars__grid">
+    <article class="service-pillars__card">
+      <h3>Diagnóstico experto</h3>
+      <p>Levantamiento técnico, análisis de recibos CFE y simulaciones PVsyst para proyectar ahorro real y dimensionamiento óptimo.</p>
+    </article>
+    <article class="service-pillars__card">
+      <h3>Ingeniería de detalle</h3>
+      <p>Planos eléctricos y estructurales, memorias de cálculo y especificaciones listas para aprobación y ejecución.</p>
+    </article>
+    <article class="service-pillars__card">
+      <h3>Implementación certificada</h3>
+      <p>Instalación con personal acreditado EC1181, pruebas de puesta en marcha y entrega de expediente técnico.</p>
+    </article>
+    <article class="service-pillars__card">
+      <h3>Monitoreo y soporte</h3>
+      <p>Supervisión 24/7, mantenimiento preventivo y correctivo, además de capacitación para tu equipo interno.</p>
+    </article>
+  </div>
+</section>
+```
+
+```{=html}
+<section class="service-grid">
+  <h2 class="service-section-title">Soluciones solares a la medida</h2>
+  <div class="service-grid__items">
+    <article class="service-card">
+      <h3>Paneles solares interconectados</h3>
+      <ul>
+        <li>Optimización del suministro con medición neta y tarifas horarias.</li>
+        <li>Equipos de última generación con monitoreo en tiempo real.</li>
+        <li>Escalabilidad para crecer potencia instalada sin frenar tu operación.</li>
+        <li>Perfecto para residencias, fraccionamientos y comercios.</li>
+      </ul>
+    </article>
+    <article class="service-card">
+      <h3>Paneles solares híbridos</h3>
+      <ul>
+        <li>Integración de bancos de baterías para continuidad garantizada.</li>
+        <li>Automatización para priorizar la fuente más eficiente y económica.</li>
+        <li>Gestión inteligente de energía solar, red y respaldo.</li>
+        <li>Recomendado para hospitales, centros de datos e industrias críticas.</li>
+      </ul>
+    </article>
+    <article class="service-card">
+      <h3>Paneles solares aislados</h3>
+      <ul>
+        <li>Autonomía total en ubicaciones remotas sin acceso a la red.</li>
+        <li>Arreglos robustos con almacenamiento dimensionado a tus cargas.</li>
+        <li>Diseños modulares que facilitan transporte e instalación.</li>
+        <li>Ideal para ranchos, granjas, parques ecoturísticos y telecom.</li>
+      </ul>
+    </article>
+    <article class="service-card">
+      <h3>Cargadores de auto eléctrico</h3>
+      <ul>
+        <li>Infraestructura AC/DC escalable para flotillas o espacios públicos.</li>
+        <li>Balanceo de cargas, gestión remota y liquidación de usuarios.</li>
+        <li>Integración con sistemas fotovoltaicos e incentivos fiscales vigentes.</li>
+        <li>Instalación conforme a NOM-001-SEDE y estándares internacionales.</li>
+      </ul>
+    </article>
+    <article class="service-card">
+      <h3>Climatización solar de albercas</h3>
+      <ul>
+        <li>Colectores solares de alto rendimiento para temperatura ideal todo el año.</li>
+        <li>Sensores y válvulas inteligentes que optimizan el flujo térmico.</li>
+        <li>Reducción drástica de consumo de gas o electricidad.</li>
+        <li>Solución para hoteles, clubes deportivos y residencias premium.</li>
+      </ul>
+    </article>
+    <article class="service-card">
+      <h3>Proyectos especiales</h3>
+      <ul>
+        <li>Electromovilidad, microredes, bombeo solar y almacenamiento a gran escala.</li>
+        <li>Consultoría, auditorías energéticas y gestión de financiamiento verde.</li>
+        <li>Integración con automatización industrial y sistemas BMS.</li>
+        <li>Documentación para certificaciones y cumplimiento normativo.</li>
+      </ul>
+    </article>
+  </div>
+</section>
+```
+
+```{=html}
+<section class="service-segments">
+  <h2 class="service-section-title">Segmentos a los que servimos</h2>
+  <div class="service-segments__grid">
+    <article class="segment-card">
+      <h3>Residencial inteligente</h3>
+      <p>Sistemas fotovoltaicos personalizados con monitoreo móvil, financiamiento accesible y garantías extendidas.</p>
+    </article>
+    <article class="segment-card">
+      <h3>Comercial y retail</h3>
+      <p>Proyectos que maximizan el ahorro en recibos de CFE, reducen la demanda máxima y estabilizan costos operativos.</p>
+    </article>
+    <article class="segment-card">
+      <h3>Industrial y gran escala</h3>
+      <p>Soluciones para media y alta tensión, integración con procesos críticos, redundancia energética y gestión O&amp;M.</p>
+    </article>
+  </div>
+</section>
+```
+
+```{=html}
+<section class="service-complementary">
+  <div class="service-complementary__inner">
+    <div class="service-complementary__copy">
+      <h2 class="service-section-title">Servicios complementarios</h2>
+      <p>Extendemos nuestros alcances para acompañarte durante toda la vida útil del sistema.</p>
+    </div>
+    <ul class="service-complementary__list">
+      <li>Auditorías energéticas, estudios de prefactibilidad y modelado financiero.</li>
+      <li>Gestión de incentivos fiscales, financiamiento verde y PPAs.</li>
+      <li>Capacitación operativa y manuales a la medida para tu equipo.</li>
+      <li>Programas de mantenimiento preventivo y correctivo con indicadores clave.</li>
+    </ul>
+  </div>
+</section>
+```
+
+```{=html}
+<section class="service-success">
+  <h2 class="service-section-title">Casos de éxito por sector</h2>
+  <div class="service-success__grid">
+    <article class="success-card">
+      <div class="success-card__label">Industrial</div>
+      <p>480 paneles instalados en Atoyac y CDMX con reducción sustancial en consumos de media tensión.</p>
+    </article>
+    <article class="success-card">
+      <div class="success-card__label">Comercial</div>
+      <p>6 fraccionamientos y 27 negocios con hasta 99% de ahorro gracias a sistemas interconectados e híbridos.</p>
+    </article>
+    <article class="success-card">
+      <div class="success-card__label">Residencial</div>
+      <p>Más de 146 viviendas con monitoreo remoto, soporte continuo y financiamiento llave en mano.</p>
+    </article>
+  </div>
+  <div class="service-success__cta">
+    <span>¿Necesitas un proyecto especial?</span>
+    <a href="contacto.qmd#agenda">Cuéntanos tus requisitos</a>
+  </div>
+</section>
+```
