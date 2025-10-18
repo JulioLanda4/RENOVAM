@@ -1165,6 +1165,7 @@ body.page-layout-full main {
   background-size: cover;
   background-position: center;
   filter: brightness(0.85);
+  z-index: 0;
 }
 
 .contact-hero::after {
@@ -1172,6 +1173,7 @@ body.page-layout-full main {
   position: absolute;
   inset: 0;
   background: linear-gradient(110deg, rgba(33, 64, 96, 0.38) 0%, rgba(18, 40, 68, 0.33) 45%, rgba(11, 27, 46, 0.4) 100%);
+  z-index: 0;
 }
 
 .contact-hero__inner {
@@ -1181,6 +1183,7 @@ body.page-layout-full main {
   gap: 2.6rem;
   padding: clamp(2.8rem, 6vw, 4rem);
   backdrop-filter: blur(4px);
+  z-index: 1;
 }
 
 .contact-hero__panel {
@@ -1236,11 +1239,61 @@ body.page-layout-full main {
 }
 
 .contact-hero__detail-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
   font-size: 0.82rem;
   letter-spacing: 0.18em;
   text-transform: uppercase;
   color: rgba(255, 255, 255, 0.55);
   font-weight: 600;
+}
+
+.contact-hero__detail-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.05rem;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.contact-hero__detail-icon svg,
+.contact-hero__icon svg {
+  width: 1.2rem;
+  height: 1.2rem;
+  display: block;
+}
+
+.contact-hero__icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact-hero__icon--facebook {
+  color: #1877f2;
+}
+
+.contact-hero__icon--instagram {
+  color: #e4405f;
+}
+
+.contact-hero__icon--whatsapp {
+  color: #25d366;
+}
+
+.contact-hero__socials a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.contact-hero__socials {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.8rem;
+  flex-wrap: wrap;
 }
 
 .contact-hero__details a {
@@ -1692,11 +1745,11 @@ body.page-layout-full main {
 
   display: flex;
 
-  gap: 2rem;
+  gap: 1.6rem;
 
   justify-content: center;
 
-  padding: 2.4rem 2.8rem;
+  padding: 2rem 2.4rem;
 
 }
 
@@ -1711,11 +1764,11 @@ body.page-layout-full main {
 
 
 
-  flex: 1 1 260px;
+  flex: 1 1 clamp(340px, 28vw, 560px);
 
 
 
-  max-width: 320px;
+  max-width: clamp(360px, 32vw, 600px);
 
 
 
@@ -1727,7 +1780,7 @@ body.page-layout-full main {
 
 
 
-  gap: 0.85rem;
+  gap: 0.9rem;
 
 
 
@@ -1751,7 +1804,7 @@ body.page-layout-full main {
 
 
 
-  padding-top: 70%;
+  padding-top: 80%;
 
 
 
@@ -1947,11 +2000,11 @@ body.page-layout-full main {
 
   display: flex;
 
-  gap: 2rem;
+  gap: 1.6rem;
 
   justify-content: center;
 
-  padding: 2.4rem 2.8rem;
+  padding: 2rem 2.4rem;
 
 }
 
@@ -1966,11 +2019,28 @@ body.page-layout-full main {
 
 
 
-    flex: 1 1 220px;
+    flex: 1 1 300px;
 
 
 
-    max-width: 260px;
+    max-width: 380px;
+
+
+
+  }
+
+
+
+
+
+
+
+
+  .portfolio-media-wrapper {
+
+
+
+    padding-top: 78%;
 
 
 
@@ -1990,9 +2060,9 @@ body.page-layout-full main {
 
   gap: 0.9rem;
 
-  flex: 1 1 360px;
+  flex: 1 1 clamp(340px, 28vw, 560px);
 
-  max-width: 440px;
+  max-width: clamp(360px, 32vw, 600px);
 
 }
 
