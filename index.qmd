@@ -25,45 +25,17 @@ page-layout: full
 ```
 
 ```{=html}
-<section class="about-values">
-  <h2 class="about-section-title">¿Por qué elegir RENOVAM?</h2>
-  <div class="about-values__grid">
-    <article class="about-values__card">
-      <h3>Ingeniería especializada</h3>
-      <p>Soluciones integrales con certificaciones y memorias de cálculo detalladas para cada sistema fotovoltaico.</p>
-    </article>
-    <article class="about-values__card">
-      <h3>Gestión completa</h3>
-      <p>Nos encargamos del estudio de factibilidad, permisos y trámites ante CFE hasta la interconexión final.</p>
-    </article>
-    <article class="about-values__card">
-      <h3>Acompañamiento cercano</h3>
-      <p>Diseños personalizados, asesoría financiera y seguimiento directo con cada cliente.</p>
-    </article>
-    <article class="about-values__card">
-      <h3>Garantías extendidas</h3>
-      <p>La única empresa em México en brindar 10 años de garantía en instalación.</p>
-    </article>
-    <article class="about-values__card">
-      <h3>Monitoreo constante</h3>
-      <p>Supervisión 24/7 por especialistas y programas de mantenimiento incluidos durante los primeros cinco años.</p>
-    </article>
-  </div>
-</section>
-```
-
-```{=html}
 <section class="about-expertise">
   <h2 class="about-section-title">Experiencia comprobada</h2>
   <div class="about-expertise__grid">
     <article class="about-expertise__card about-expertise__card--industrial">
       <span class="about-expertise__label">Industrial</span>
-      <h3>480 paneles en Atoyac · 340 paneles en CDMX</h3>
+      <h3>480 paneles en Atoyac &middot; 340 paneles en CDMX</h3>
       <p>Proyectos para recibos de media tensión de $30,000 a $7,000,000 MXN mensuales con redundancia operativa.</p>
     </article>
     <article class="about-expertise__card about-expertise__card--commercial">
       <span class="about-expertise__label">Comercial</span>
-      <h3>6 fraccionamientos · 27 negocios</h3>
+      <h3>6 fraccionamientos &middot; 27 negocios</h3>
       <p>Integraciones en retail, oficinas y manufactura que alcanzan hasta 99&nbsp;% de ahorro en facturación CFE.</p>
     </article>
     <article class="about-expertise__card about-expertise__card--residential">
@@ -82,27 +54,41 @@ page-layout: full
     <p>Participamos en iniciativas estratégicas de gran escala a través de alianzas que aportan nuestra ingeniería, instalación y gestión.</p>
   </div>
 ```
+
 :::{.case-gallery layout-ncol="3"}
+
 ::: {.case-card}
+
 ![](Recursos/Imagenes%20varias/Yecapixtla.png){.case-card__image}
-**Parque industrial en Yecapixtla** · 60 MW
 
-Memoria de calculo, analisis financiero y analisis de produccion. El recibo mensual paso de $3,273,371 pesos a solo $1,163,335 pesos y la instalacion se encuentra en proceso.
+**Parque industrial en Yecapixtla** – 60 MW
+
+Memoria de cálculo, análisis financiero y análisis de producción. El recibo mensual pasó de $3,273,371 pesos a solo $1,163,335 pesos y la instalación se encuentra en proceso.
+
 :::
 
 ::: {.case-card}
-![](Recursos/Paneles%20solares%20híbridos/IMG_4926.jpg){.case-card__image}
-**Proyecto híbrido aislado en centro de salud para San José de Pala** 
+
+![](Recursos/Paneles%20solares%20h%C3%ADbridos/IMG_4926.jpg){.case-card__image}
+
+**Proyecto híbrido aislado en centro de salud para San José de Pala**
+
 Proyecto híbrido aislado de centro de salud en San José de Pala, Morelos para alimentación continua de refrigeradores con medicinas.
+
 :::
 
 ::: {.case-card}
+
 ![](Recursos/Paneles%20solares%20aislados/IMG_6968.jpg){.case-card__image}
-**Instalación de 6 sistemas aislados en Tantoyuca, Veracruz** 
+
+**Instalación de 6 sistemas aislados en Tantoyuca, Veracruz**
 
 Análisis energético, dimensionamiento de sistemas e instalación para ranchos ubicados en la región.
+
 :::
+
 :::
+
 ```{=html}
 </section>
 ```
@@ -113,25 +99,24 @@ Análisis energético, dimensionamiento de sistemas e instalación para ranchos 
     <h2 class="about-section-title">Nuestro equipo</h2>
     <p>RENOVAM está liderado por especialistas en energías renovables egresados del Instituto de Energías Renovables de la UNAM.</p>
   </div>
-  <div class="about-team__photo-wrapper">
-    <figure class="about-team__photo-block">
-      <img src="Recursos/Imagenes%20varias/Equipo.jpeg" alt="Equipo RENOVAM">
-    </figure>
-  </div>
-  <div class="about-team__grid">
-    <article class="about-team__card">
-      <h3>Ing. Oscar Zagal Olvera</h3>
-      <p>Responsable de proyectos fotovoltaicos, microredes, sistemas aislados y respaldo de emergencia.</p>
-    </article>
-    <article class="about-team__card">
-      <h3>Ing. Cristóbal Valdos Mayo</h3>
-      <p>Especialista en climatización solar, biocombustibles y electromovilidad con enfoque en integración tecnológica.</p>
-    </article>
-  </div>
-  <p class="about-team__note">Ambos cuentan con certificación EC1181 para supervisar sistemas fotovoltaicos residenciales, comerciales e industriales.</p>
+  <article class="about-team__profile-card about-team__profile-card--equipo">
+    <div class="about-team__profile-backdrop" aria-hidden="true"></div>
+    <div class="about-team__profile-content">
+      <h3 class="about-team__profile-title">Liderazgo en ingeniería solar</h3>
+      <div aria-hidden="true" class="about-team__space about-team__space--pre-members"></div>
+      <div class="about-team__members">
+        <div class="about-team__member">
+          <h3>Ing. Cristóbal Valdos Mayo</h3>
+          <p>Especialista en climatización solar, biocombustibles y electromovilidad con enfoque en integración tecnológica.</p>
+        </div>
+        <div class="about-team__member">
+          <h3>Ing. Oscar Zagal Olvera</h3>
+          <p>Responsable de proyectos fotovoltaicos, microredes, sistemas aislados y respaldo de emergencia.</p>
+        </div>
+      </div>
+      <div aria-hidden="true" class="about-team__space about-team__space--pre-note"></div>
+      <p class="about-team__note">Ambos cuentan con certificación EC1181 para supervisar sistemas fotovoltaicos residenciales, comerciales e industriales.</p>
+    </div>
+  </article>
 </section>
 ```
-
-
-
-
