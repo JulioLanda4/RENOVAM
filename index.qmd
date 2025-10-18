@@ -13,10 +13,10 @@ page-layout: full
       <p class="about-hero__mission">Somos una empresa 100&nbsp;% mexicana con enfoque integral: combinamos análisis energético, ingeniería certificada y gestión documental para entregar resultados reales y medibles.</p>
     </div>
     <div class="about-hero__media">
-      <h2>Diferenciales clave</h2>
+      <h2>Experiencia en proyectos de baja y media tensión</h2>
       <ul class="about-hero__points">
         <li>Metodología propia que une diagnóstico, ingeniería, instalación y operación.</li>
-        <li>Equipo acreditado EC1181 con experiencia en proyectos de media y alta tensión.</li>
+        <li>Equipo acreditado EC1181 con experiencia en proyectos de media y baja tensión.</li>
         <li>Monitoreo, mantenimiento y soporte técnico continuo para asegurar desempeño.</li>
       </ul>
     </div>
@@ -42,7 +42,7 @@ page-layout: full
     </article>
     <article class="about-values__card">
       <h3>Garantías extendidas</h3>
-      <p>10 años en instalación por parte de RENOVAM y cobertura ampliada según la tecnología instalada.</p>
+      <p>La única empresa em México en brindar 10 años de garantía en instalación.</p>
     </article>
     <article class="about-values__card">
       <h3>Monitoreo constante</h3>
@@ -56,17 +56,17 @@ page-layout: full
 <section class="about-expertise">
   <h2 class="about-section-title">Experiencia comprobada</h2>
   <div class="about-expertise__grid">
-    <article class="about-expertise__card">
+    <article class="about-expertise__card about-expertise__card--industrial">
       <span class="about-expertise__label">Industrial</span>
       <h3>480 paneles en Atoyac · 340 paneles en CDMX</h3>
       <p>Proyectos para recibos de media tensión de $30,000 a $7,000,000 MXN mensuales con redundancia operativa.</p>
     </article>
-    <article class="about-expertise__card">
+    <article class="about-expertise__card about-expertise__card--commercial">
       <span class="about-expertise__label">Comercial</span>
       <h3>6 fraccionamientos · 27 negocios</h3>
       <p>Integraciones en retail, oficinas y manufactura que alcanzan hasta 99&nbsp;% de ahorro en facturación CFE.</p>
     </article>
-    <article class="about-expertise__card">
+    <article class="about-expertise__card about-expertise__card--residential">
       <span class="about-expertise__label">Residencial</span>
       <h3>146 instalaciones inteligentes</h3>
       <p>Sistemas de 4 a 24 paneles con monitoreo en tiempo real, soluciones híbridas y soporte personalizado.</p>
@@ -84,24 +84,23 @@ page-layout: full
 ```
 :::{.case-gallery layout-ncol="3"}
 ::: {.case-card}
-![](Recursos/Paneles%20solares%20interconectados/central-abastos.jpg){.case-card__image}
-**Central de Abastos CDMX** · 60 MW
+![](Recursos/Imagenes%20varias/Yecapixtla.png){.case-card__image}
+**Parque industrial en Yecapixtla** · 60 MW
 
-Estudio de prefactibilidad e ingeniería financiera para la planta fotovoltaica más grande de la zona metropolitana.
+Memoria de calculo, analisis financiero y analisis de produccion. El recibo mensual paso de $3,273,371 pesos a solo $1,163,335 pesos y la instalacion se encuentra en proceso.
 :::
 
 ::: {.case-card}
 ![](Recursos/Paneles%20solares%20híbridos/IMG_4926.jpg){.case-card__image}
-**Facultad de Ingeniería UNAM** · 50 kW
-
-Diseño y dimensionamiento eléctrico-estructural del estacionamiento solar instalado en Ciudad Universitaria.
+**Proyecto híbrido aislado en centro de salud para San José de Pala** 
+Proyecto híbrido aislado de centro de salud en San José de Pala, Morelos para alimentación continua de refrigeradores con medicinas.
 :::
 
 ::: {.case-card}
 ![](Recursos/Paneles%20solares%20aislados/IMG_6968.jpg){.case-card__image}
-**Planta de Tratamiento CONAGUA** · 150 kW
+**Instalación de 6 sistemas aislados en Tantoyuca, Veracruz** 
 
-Documentación ejecutiva, memorias de cálculo e ingeniería para sitio aislado aprobado en Morelos.
+Análisis energético, dimensionamiento de sistemas e instalación para ranchos ubicados en la región.
 :::
 :::
 ```{=html}
@@ -113,6 +112,11 @@ Documentación ejecutiva, memorias de cálculo e ingeniería para sitio aislado 
   <div class="about-team__header">
     <h2 class="about-section-title">Nuestro equipo</h2>
     <p>RENOVAM está liderado por especialistas en energías renovables egresados del Instituto de Energías Renovables de la UNAM.</p>
+  </div>
+  <div class="about-team__photo-wrapper">
+    <figure class="about-team__photo-block">
+      <img src="Recursos/Imagenes%20varias/Equipo.jpeg" alt="Equipo RENOVAM">
+    </figure>
   </div>
   <div class="about-team__grid">
     <article class="about-team__card">
@@ -127,3 +131,7 @@ Documentación ejecutiva, memorias de cálculo e ingeniería para sitio aislado 
   <p class="about-team__note">Ambos cuentan con certificación EC1181 para supervisar sistemas fotovoltaicos residenciales, comerciales e industriales.</p>
 </section>
 ```
+
+
+
+

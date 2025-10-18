@@ -1690,25 +1690,16 @@ body.page-layout-full main {
 
 .portfolio-slide-row {
 
-
-
   display: flex;
 
-
-
-  gap: 1.5rem;
-
-
+  gap: 2rem;
 
   justify-content: center;
 
-
-
-  padding: 2rem 2.5rem;
-
-
+  padding: 2.4rem 2.8rem;
 
 }
+
 
 
 
@@ -1954,17 +1945,16 @@ body.page-layout-full main {
 
   .portfolio-slide-row {
 
+  display: flex;
 
+  gap: 2rem;
 
-    flex-wrap: wrap;
+  justify-content: center;
 
+  padding: 2.4rem 2.8rem;
 
+}
 
-    padding: 1.5rem;
-
-
-
-  }
 
 
 
@@ -1994,29 +1984,18 @@ body.page-layout-full main {
 
 .portfolio-item-card {
 
-
-
   display: flex;
-
-
 
   flex-direction: column;
 
+  gap: 0.9rem;
 
+  flex: 1 1 360px;
 
-  gap: 0.75rem;
-
-
-
-  flex: 1 1 280px;
-
-
-
-  max-width: 320px;
-
-
+  max-width: 440px;
 
 }
+
 
 
 
@@ -2379,6 +2358,124 @@ body.page-layout-full main {
   line-height: 1.6;
 }
 
+.service-grid {
+  padding: 3rem 0;
+  background: linear-gradient(135deg, rgba(240, 244, 255, 0.45) 0%, rgba(255, 255, 255, 0.9) 100%);
+  border-radius: 2rem;
+  margin-bottom: 3rem;
+}
+
+.service-grid__items {
+  display: grid;
+  gap: 1.8rem;␍␊
+  grid-template-columns: 1fr;
+  padding: 0 0.5rem;
+}
+
+@media (min-width: 768px) {
+  .service-grid__items {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.service-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 1.5rem;
+  border: 1px solid rgba(17, 24, 36, 0.28);
+  box-shadow: 0 26px 52px rgba(18, 24, 36, 0.26);
+  display: flex;
+  flex-direction: column;
+  background: #0f1624;
+  isolation: isolate;
+  --service-card-image: none;
+  --service-card-image-position: center 45%;
+  --service-card-image-size: cover;
+  --service-card-overlay-height: 68%;
+}
+
+.service-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: var(--service-card-image);
+  background-size: var(--service-card-image-size);
+  background-position: var(--service-card-image-position);
+  background-repeat: no-repeat;
+  filter: saturate(0.98);
+  z-index: 0;
+  pointer-events: none;
+}
+
+.service-card::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: var(--service-card-overlay-height);
+  background: linear-gradient(180deg, rgba(9, 14, 24, 0.88) 0%, rgba(10, 18, 30, 0.68) 38%, rgba(12, 20, 34, 0.32) 62%, rgba(14, 24, 40, 0.08) 78%, rgba(14, 24, 40, 0) 90%);
+  z-index: 0;
+  pointer-events: none;
+}
+
+.service-card__body {
+  padding: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  position: relative;
+  z-index: 2;
+  color: #f4f7fb;
+  background: transparent;
+}
+
+.service-card__body h3 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: #ffffff;
+}
+␍␊
+.service-card__body p {
+  margin: 0;
+  color: rgba(244, 247, 255, 0.92);
+  line-height: 1.7;
+}
+
+.service-card__media {
+  min-height: 320px;
+  position: relative;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.service-card--interconectados {
+  --service-card-image: url('../Recursos/Paneles%20solares%20interconectados/IMG_6399.jpg');
+}
+
+.service-card--hibridos {
+  --service-card-image: url('../Recursos/Paneles%20solares%20h%C3%ADbridos/IMG_4945.jpg');
+}
+
+.service-card--aislados {
+  --service-card-image: url('../Recursos/Paneles%20solares%20aislados/IMG_6968.jpg');
+  --service-card-image-position: center 55%;
+}
+
+.service-card--albercas {
+  --service-card-image: url('../Recursos/Calentamiento%20del%20Albercas/IMG_4650.jpg');
+}
+
+.service-card--cargadores {
+  --service-card-image: url('../Recursos/Cargadores%20de%20auto/IMG_7423.jpg');
+}
+
+.service-card--proximamente {
+  --service-card-image: url('../Recursos/Imagenes%20varias/proximamente.jpeg');
+}
+
 .service-complementary {
   padding: 3rem 0;
 }
@@ -2452,10 +2549,104 @@ body.page-layout-full main {
   color: rgba(27, 34, 49, 0.75);
 }
 
+
 .service-success__cta a {
   color: #7050ff;
   font-weight: 600;
 }
+
+.service-contact-cta {
+  margin: 3.5rem 0 0;
+}
+
+.service-contact-cta__inner {
+  background: linear-gradient(135deg, rgba(11, 22, 44, 0.96) 0%, rgba(28, 44, 73, 0.92) 100%);
+  border: 1px solid rgba(53, 87, 140, 0.35);
+  border-radius: 1.8rem;
+  box-shadow: 0 28px 60px rgba(5, 12, 28, 0.42);
+  padding: clamp(2.4rem, 6vw, 3.6rem);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: clamp(1.4rem, 3vw, 2rem);
+  text-align: center;
+  color: #f4f7fc;
+}
+
+.service-contact-cta__copy {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  align-items: center;
+  max-width: 640px;
+}
+
+.service-contact-cta__eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.35rem 1rem;
+  border-radius: 999px;
+  background: rgba(64, 180, 255, 0.22);
+  color: #b8e2ff;
+  font-size: 0.78rem;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.service-contact-cta__copy h2 {
+  margin: 0;
+  font-size: clamp(1.9rem, 3.6vw, 2.3rem);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: #f7f9ff;
+}
+
+.service-contact-cta__copy p {
+  margin: 0;
+  font-size: 1.05rem;
+  line-height: 1.75;
+  color: rgba(230, 239, 255, 0.82);
+}
+
+.service-contact-cta__actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+.service-contact-cta__button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.85rem;
+  padding: 1rem 2.2rem;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #27c06a 0%, #13957c 100%);
+  color: #ffffff;
+  font-weight: 700;
+  text-decoration: none;
+  box-shadow: 0 26px 48px rgba(19, 149, 124, 0.32);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.service-contact-cta__button::before {
+  content: "";
+  width: 2.6rem;
+  height: 2.6rem;
+  background: url("data:image/svg+xml,%3Csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\"%3E%3Cpath fill=\"%23ffffff\" d=\"M12.048 2.25C6.615 2.25 2.209 6.654 2.21 12.09c0 1.866.487 3.643 1.412 5.226L2.3 21.663l4.444-1.29a9.77 9.77 0 0 0 5.304 1.565h.005c5.435 0 9.84-4.405 9.84-9.84 0-2.627-1.024-5.098-2.88-6.952A9.779 9.779 0 0 0 12.048 2.25Zm-.002 17.438h-.004a8.43 8.43 0 0 1-4.512-1.298l-.323-.194-2.639.767.766-2.57-.21-.33a8.437 8.437 0 0 1 7.157-12.816h.004a8.416 8.416 0 0 1 5.967 2.468 8.425 8.425 0 0 1 2.473 5.979c0 4.696-3.82 8.424-8.679 8.424Z\"/%3E%3Cpath fill=\"%23ffffff\" d=\"M16.29 14.17c-.298-.149-1.77-.873-2.045-.973-.274-.1-.473-.149-.673.149-.199.298-.773.974-.948 1.173-.175.2-.349.224-.647.075-.298-.149-1.26-.464-2.4-1.481-.887-.79-1.485-1.767-1.661-2.064-.174-.298-.019-.459.13-.607.133-.133.298-.349.448-.523.149-.174.199-.298.298-.498.1-.198.05-.373-.025-.522-.075-.149-.673-1.62-.923-2.225-.243-.584-.492-.505-.673-.514l-.574-.01c-.2 0-.523.075-.797.372s-1.047 1.023-1.047 2.496 1.073 2.896 1.223 3.094c.149.199 2.118 3.232 5.13 4.532.717.309 1.277.493 1.713.63.72.23 1.377.198 1.895.12.579-.086 1.77-.723 2.02-1.422.25-.698.25-1.296.175-1.422-.074-.124-.274-.199-.572-.348Z\"/%3E%3C/svg%3E") center/contain no-repeat;
+}
+
+.service-contact-cta__button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 28px 54px rgba(19, 149, 124, 0.34);
+}
+.service-contact-cta__button:active {
+  transform: translateY(-1px);
+  box-shadow: 0 22px 44px rgba(19, 149, 124, 0.28);
+}
+
 
 @media (max-width: 960px) {
   .service-hero__inner {
@@ -2486,19 +2677,33 @@ body.page-layout-full main {
 :root[data-bs-theme="dark"] .service-card,
 :root[data-bs-theme="dark"] .service-complementary__inner,
 :root[data-bs-theme="dark"] .success-card {
-  background: rgba(17, 21, 29, 0.96);
+  background: linear-gradient(135deg, rgba(7, 12, 22, 0.78) 0%, rgba(11, 17, 29, 0.82) 100%);
   color: #f3f5fa;
   border-color: rgba(255, 255, 255, 0.1);
   box-shadow: 0 24px 52px rgba(0, 0, 0, 0.42);
 }
 
-:root[data-bs-theme="dark"] .service-card ul,
+:root[data-bs-theme="dark"] .service-card__body p,
 :root[data-bs-theme="dark"] .service-pillars__card p,
 :root[data-bs-theme="dark"] .service-complementary__list,
 :root[data-bs-theme="dark"] .service-complementary__copy p,
 :root[data-bs-theme="dark"] .success-card p,
 :root[data-bs-theme="dark"] .service-success__cta {
   color: rgba(234, 240, 248, 0.78);
+}
+
+:root[data-bs-theme="dark"] .service-contact-cta__inner {
+  background: linear-gradient(135deg, rgba(15, 23, 40, 0.92) 0%, rgba(24, 40, 63, 0.9) 100%);
+  border-color: rgba(255, 255, 255, 0.08);
+  color: #f3f5fa;
+}
+
+:root[data-bs-theme="dark"] .service-contact-cta__copy h2 {
+  color: #f5f7fc;
+}
+
+:root[data-bs-theme="dark"] .service-contact-cta__copy p {
+  color: rgba(234, 240, 248, 0.72);
 }
 
 :root[data-bs-theme="dark"] .service-grid {
@@ -3024,3 +3229,4 @@ main.content {
 :root[data-bs-theme="dark"] .portfolio-hero__insights {
   color: rgba(231, 238, 246, 0.78);
 }
+
