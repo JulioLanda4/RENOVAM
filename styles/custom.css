@@ -2543,7 +2543,7 @@ body.page-layout-full main {
 }
 
 .service-card--proximamente {
-  --service-card-image: url('../Recursos/Imagenes%20varias/proximamente.jpeg');
+  --service-card-image: url('../Recursos/Servicios/servicios-proximamente.jpeg');
 }
 
 .service-complementary {
@@ -3075,15 +3075,15 @@ body.page-layout-full main {
   }
   
   .about-expertise__card--industrial {
-    --expertise-bg-image: url("../Recursos/Imagenes%20varias/Indsutrial.jpeg");
+    --expertise-bg-image: url("../Recursos/Nosotros/expertise-industrial.jpeg");
   }
   
   .about-expertise__card--commercial {
-    --expertise-bg-image: url("../Recursos/Imagenes%20varias/Comerical.jpeg");
+    --expertise-bg-image: url("../Recursos/Nosotros/expertise-comercial.jpeg");
   }
   
   .about-expertise__card--residential {
-    --expertise-bg-image: url("../Recursos/Imagenes%20varias/Residencial.jpeg");
+    --expertise-bg-image: url("../Recursos/Nosotros/expertise-residencial.jpeg");
   }
 
 .about-projects {
@@ -3127,7 +3127,7 @@ body.page-layout-full main {
 }
 
 .about-team__profile-card--equipo {
-  --team-card-bg: url("../Recursos/Imagenes%20varias/Equipo.jpeg");
+  --team-card-bg: url("../Recursos/Nosotros/equipo-liderazgo.jpeg");
 }
 
 .about-team__profile-backdrop {
@@ -3422,7 +3422,7 @@ body.page-layout-full main {
 }
 
 .about-hero__points li::before {
-  content: ;
+  content: "";
   position: absolute;
   left: 0;
   top: 0.5rem;

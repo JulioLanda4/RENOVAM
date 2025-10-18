@@ -59,7 +59,7 @@ page-layout: full
 
 ::: {.case-card}
 
-![](Recursos/Imagenes%20varias/Yecapixtla.png){.case-card__image}
+![](Recursos/Portafolio/caso-yecapixtla.png){.case-card__image}
 
 **Parque industrial en Yecapixtla** – 60 MW
 
